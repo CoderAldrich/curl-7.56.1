@@ -1,0 +1,8 @@
+V	260928102403Z		11	unknown	/C=CN/ST=HuBei/O=Douyu Inc/OU=Douyu Inc/CN=*.douyu.com
+V	261129034859Z		12	unknown	/C=CN/ST=Shenzhen/O=Tencent Technology (Shenzhen) Company Limited/OU=R&D/CN=*.qq.com
+V	261129064526Z		13	unknown	/C=CN/ST=Shenzhen/O=Tencent Technology (Shenzhen) Company Limited/OU=R&D/CN=v.qq.com
+V	261129073500Z		14	unknown	/C=CN/ST=guangdong/O=Tencent Technology (Shenzhen) Company Limited/OU=R&D/CN=betara.gtimg.com
+V	270312055027Z		15	unknown	/C=CN/ST=Beijing/O=Wuhan Shayu Network Broadcasting Tech Co., Ltd. Beijing Branch/OU=IT/CN=*.qiecdn.com
+V	270314080644Z		16	unknown	/C=CN/ST=shenzhen/O=Shenzhen Tencent Computer Systems Company Limited/OU=R&D/CN=*.qq.com
+V	270315105642Z		17	unknown	/C=CN/ST=Beijing/O=douyu/OU=douyu/CN=*.douyu.com
+V	270501015505Z		18	unknown	/C=CN/ST=Beijing/O=douyu/OU=ops/CN=*.douyu.com
